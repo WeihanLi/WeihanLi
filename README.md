@@ -8,7 +8,7 @@ I'm a .NET full stack developer, I'd like to make some contributions for .net op
 - <https://www.cnblogs.com/weihanli>
 - <weihanli@outlook.com>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WeihanLi)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=WeihanLi&show_icons=true&theme=dark)
 
 <!--
 **WeihanLi/WeihanLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
