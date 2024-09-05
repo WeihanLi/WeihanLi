@@ -4,7 +4,7 @@
 
 I'm a .NET full stack developer, and I'd like to make some contributions for .net open source projects and share some thoughts on my blog and github.
 
-[![MVP Award](https://cdn.edi.wang/web-assets/mvp-logo.svg)](https://mvp.microsoft.com/en-us/PublicProfile/5004222)
+[![Microsoft MVP](https://cdn.edi.wang/web-assets/mvp-logo.svg)](https://mvp.microsoft.com/en-US/mvp/profile/594ebabf-f3bd-eb11-bacc-0022481f2c24)
 
 ### Find me
 
