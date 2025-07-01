@@ -31,6 +31,6 @@ jobs:
           target_branch: output
           build_dir: dist
           author: 'Weihan Li <weihanli@outlook.com>'
-          # keep_history: true
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
