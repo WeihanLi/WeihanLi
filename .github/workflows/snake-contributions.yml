@@ -30,7 +30,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          author: 'Weihan Li <weihanli@outlook.com>'
+          author: 'Weihan Li <7604648+WeihanLi@users.noreply.github.com>'
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
