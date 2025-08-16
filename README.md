@@ -20,7 +20,7 @@ I'm also one of the Microsoft MVPs
 - [**dotnet-exec**](https://github.com/WeihanLi/dotnet-exec):  
   Simplified C#/.NET execution with custom entry points.
 
-- [**dotnet-httpie**](https://github.com/WeihanLi/dotnet-exec):  
+- [**dotnet-httpie**](https://github.com/WeihanLi/dotnet-httpie):  
   HTTPie inspired dotnet tool for HTTP
 
 - [**SparkTodo**](https://github.com/WeihanLi/SparkTodo):  
