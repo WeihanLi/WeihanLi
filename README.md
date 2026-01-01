@@ -56,7 +56,7 @@ I'm also one of the Microsoft MVPs
 - Blog: [weihanli.xyz](https://weihanli.xyz)
 - GitHub: [WeihanLi](https://github.com/WeihanLi)
 - Email: <weihanli@outlook.com>
-- 微信公众号：**amazingdotnet**
+- 微信公众号：![**amazingdotnet**](./assets/mpwechat-amazingdotnet.png)
 
 <picture>
   <source
