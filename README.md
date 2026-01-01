@@ -54,11 +54,9 @@ I'm also one of the Microsoft MVPs
 ## 📫 Connect with Me
 
 - Blog: [weihanli.xyz](https://weihanli.xyz)
-- GitHub Discussions: [WeihanLi](https://github.com/WeihanLi)
+- GitHub: [WeihanLi](https://github.com/WeihanLi)
 - Email: <weihanli@outlook.com>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WeihanLi&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeihanLi&theme=dark&layout=compact)
+- 微信公众号：**amazingdotnet**
 
 <picture>
   <source
