@@ -8,8 +8,9 @@ I'm a passionate developer and open-source enthusiast, specializing in .NET and 
 
 I'm also one of the Microsoft MVPs
 
+<!--
 [![Microsoft MVP](https://cdn.edi.wang/web-assets/mvp-logo.svg)](https://mvp.microsoft.com/en-US/mvp/profile/594ebabf-f3bd-eb11-bacc-0022481f2c24)
-
+-->
 
 - 💻 **Main Focus:** C#, .NET, ASP.NET Core, Utility Libraries
 - 📦 **Open Source Advocate:** Building and sharing useful tools to make development easier and more fun
